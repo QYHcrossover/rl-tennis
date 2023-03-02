@@ -40,7 +40,7 @@ python ppo_tennis.py --eval
 
 默认加载的是 `models/TennisNoFrameskip-v4__ppo_tennis__1__1658753671/best.pt`  这个训练好的模型， 通过 `--model-path` 更改待评估模型地址，部分评估录像效果展示如下：
 
-![](https://cdn.jsdelivr.net/gh/QYHcrossover/blog-imgbed/blogimgtennis3-1677649114372-2.gif)
+![tennis4](https://cdn.jsdelivr.net/gh/QYHcrossover/blog-imgbed/blogimgtennis4.gif)
 
 ### wrapper细节
 
